@@ -1,5 +1,5 @@
 //for cmmand line git tutorial
-//Local repository mdification
+//GItHub mdification
 
 print("hellow world")
 print("Tell your world")
